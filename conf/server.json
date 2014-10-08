@@ -1,0 +1,38 @@
+{
+    "bj":{
+            "id": 1,
+            "code": "bj",
+            "name": "北京服务器",
+            "db_user": "testuser",
+            "db_pass": "123abc", 
+            "db_host": "192.168.6.222",
+            "db_port": "3306"
+    },
+    "gz": {
+            "id": 2,
+            "code": "gz",
+            "name": "广州服务器",
+            "db_user": "testuser",
+            "db_pass": "123abc", 
+            "db_host": "192.168.6.222",
+            "db_port": "3306"
+            },
+    "hk":{
+            "id": 3,
+            "code": "hk",
+            "name": "香港服务器",
+            "db_user": "testuser",
+            "db_pass": "123abc", 
+            "db_host": "192.168.6.222",
+            "db_port": "3306"
+    },
+    "dc":{
+            "id": 4,
+            "code": "dc",
+            "name": "东城服务器",
+            "db_user": "testuser",
+            "db_pass": "123abc", 
+            "db_host": "192.168.6.222",
+            "db_port": "3306"
+    }
+}
